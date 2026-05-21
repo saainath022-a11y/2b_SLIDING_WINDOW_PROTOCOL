@@ -8,10 +8,10 @@
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
-Cilent 
+##Cilent 
 <img width="640" height="524" alt="image" src="https://github.com/user-attachments/assets/f6aabfc6-8a15-4acf-87d2-a22b425fae02" />
 
-Server 
+##Server 
 
 <img width="853" height="515" alt="image" src="https://github.com/user-attachments/assets/922793e4-e7a8-4f0f-839a-f3b5d1abf40e" />
 
